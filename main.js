@@ -9,4 +9,4 @@ client.once('ready', () => {
 });
 
 
-client.login('NzY2Njc3NDU5NTk1ODIxMTE3.X4m2Bg.FQf1xPjrbdIlbqkKiZhHRBGIK0E');
+client.login('NzY2Njc3NDU5NTk1ODIxMTE3.X4m2Bg.kzSeWmbTml8OMj4h5SrshghOMXA');
